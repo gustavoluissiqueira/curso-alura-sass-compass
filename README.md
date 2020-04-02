@@ -40,11 +40,11 @@
 
 # 5-Funções de cores
 
-- [x]Alterações nas cores
-*Voltando à cor original
-*Darken
-*Sintaxe da lighten
-*Outras funções de cor
+- [x] Alterações nas cores
+- [x] Voltando à cor original
+- [x] Darken
+- [x] Sintaxe da lighten
+- [x] Outras funções de cor
 
 # 6-Extend e placeholder
 
