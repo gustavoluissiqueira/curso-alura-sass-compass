@@ -1,106 +1,106 @@
 
-#1-Primeiro contato
-*Preparando o ambiente
-*Começando a trabalhar
-*Como criar variáveis com o Sass
-*Arquivos do curso
-*Instalando o Sass
-*Qual a linguagem de estilos que o browser entende?
-*O que será compilado do código abaixo?
-*Mais uma variável
-*Sobre o Compass
+# 1-Primeiro contato
+- [x] Preparando o ambiente
+- [x] Começando a trabalhar
+- [x] Como criar variáveis com o Sass
+- [x] Arquivos do curso
+- [x] Instalando o Sass
+- [x] Qual a linguagem de estilos que o browser entende?
+- [x] O que será compilado do código abaixo?
+- [x] Mais uma variável
+- [x] Sobre o Compass
 
-#2-Mixin 
-*Mais uma variável: a cor branca
-*Apresentação do mixin
-*Mais um mixin: o sombreado
-*Alterações na borda arredondada
-*Comentários no Sass
-*Criando um mixin
-*Mixin image replacement
-*Mais um mixin?
+# 2-Mixin 
+- [x] Mais uma variável: a cor branca
+- [x] Apresentação do mixin
+- [x] Mais um mixin: o sombreado
+- [x] Alterações na borda arredondada
+- [x] Comentários no Sass
+- [x] Criando um mixin
+- [x] Mixin image replacement
+- [x] Mais um mixin?
 
-#3-Aninhamento
+# 3-Aninhamento
 
-*Mixin de image replacement
-*Aninhamento
-*Aninhando regras
-*Compilando
-*Aninhamento no .itens-plano
+- [x] Mixin de image replacement
+- [x] Aninhamento
+- [x] Aninhando regras
+- [x] Compilando
+- [x] Aninhamento no .itens-plano
 
-#4-Imports
+# 4-Imports
 
-*Aninhamento no .itens-plano
-*Adicionar plug-ins ao Sublime
-*Importação de arquivos
-*Importando o normalize
-*Scss VS CSS
-*Outra forma de separar os arquivos
-*Fixação de sintaxe
+- [x] Aninhamento no .itens-plano
+- [x] Adicionar plug-ins ao Sublime
+- [x] Importação de arquivos
+- [x] Importando o normalize
+- [x] Scss VS CSS
+- [x] Outra forma de separar os arquivos
+- [x] Fixação de sintaxe
 
-#Funções de cores
+# 5-Funções de cores
 
-*Alterações nas cores
+- [x]Alterações nas cores
 *Voltando à cor original
 *Darken
 *Sintaxe da lighten
 *Outras funções de cor
 
-#Extend e placeholder
+# 6-Extend e placeholder
 
-*Evitar repetições com placeholder
-*Limitações do placeholder
-*Sintaxe do placeholder
-*Mixin X placeholder
-*Compilando
+- [x] Evitar repetições com placeholder
+- [x] Limitações do placeholder
+- [x] Sintaxe do placeholder
+- [x] Mixin X placeholder
+- [x] Compilando
 
-#Media queries direto no seletor
+# 7-Media queries direto no seletor
 
-*Introdução a media queries
-*Inserção de variáveis em media queries
-*Media query como variável
-*Media query no seletor
-*Sintaxe
-*Compilando
-*Restante das regras da media query
+- [x] Introdução a media queries
+- [x] Inserção de variáveis em media queries
+- [x] Media query como variável
+- [x] Media query no seletor
+- [x] Sintaxe
+- [x] Compilando
+- [x] Restante das regras da media query
 
-#Compass
+# 8-Compass
 
-*Instalando o Compass
-*Aplicação do restante das regras de media query
-*Introdução ao Compass
-*Comentários automáticos do Compass
-*Atualizando placeholders
-*Mais exemplos do Compass
-*Automatização de sprites
-*Explicação - Automatização de sprites
-*Espaçamento nos sprites
-*Explicação - Espaçamento nos sprites
-*Posicionamento de sprite
-*Explicação - Posicionamento de sprite
-*Ajustes no posicionamento de sprite
-*Explicação - Ajustes no posicionamento de sprite
-*Configurando
-*Outro sprite
+- [ ] Instalando o Compass
+- [ ] Aplicação do restante das regras de media query
+- [ ] Introdução ao Compass
+- [ ] Comentários automáticos do Compass
+- [ ] Atualizando placeholders
+- [ ] Mais exemplos do Compass
+- [ ] Automatização de sprites
+- [ ] Explicação - Automatização de sprites
+- [ ] Espaçamento nos sprites
+- [ ] Explicação - Espaçamento nos sprites
+- [ ] Posicionamento de sprite
+- [ ] Explicação - Posicionamento de sprite
+- [ ] Ajustes no posicionamento de sprite
+- [ ] Explicação - Ajustes no posicionamento de sprite
+- [ ] Configurando
+- [ ] Outro sprite
 
-#Operações matemáticas
+# 9-Operações matemáticas
 
-*Operações matemáticas no código
-*Explicação - Operações matemáticas no código
-*Aplicando a variável de tamanho padrão
-*Explicação - Aplicando a variável de tamanho padrão
-*Funções no Sass
-*Explicação - Funções no Sass
-*Arredondar valores
-*Explicação - Arredondar valores
-*Resultado de um cálculo
-*Dois operadores
-*Arredondando
+- [ ] Operações matemáticas no código
+- [ ] Explicação - Operações matemáticas no código
+- [ ] Aplicando a variável de tamanho padrão
+- [ ] Explicação - Aplicando a variável de tamanho padrão
+- [ ] Funções no Sass
+- [ ] Explicação - Funções no Sass
+- [ ] Arredondar valores
+- [ ] Explicação - Arredondar valores
+- [ ] Resultado de um cálculo
+- [ ] Dois operadores
+- [ ] Arredondando
 
-#Boas práticas e conselhos
+# 10-Boas práticas e conselhos
 
-*Boas práticas e conselhos
-*Explicação - Boas práticas e conselhos
-*Conferir
-*CSS melhor
-*Indo além
+- [ ] Boas práticas e conselhos
+- [ ] Explicação - Boas práticas e conselhos
+- [ ] Conferir
+- [ ] CSS melhor
+- [ ] Indo além
