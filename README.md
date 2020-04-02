@@ -1,5 +1,8 @@
+# Curso de Sass e Compass: Descomplicando o CSS
 
-# 1-Primeiro contato
+## Aulas 
+
+### 1-Primeiro contato
 - [x] Preparando o ambiente
 - [x] Começando a trabalhar
 - [x] Como criar variáveis com o Sass
@@ -10,7 +13,7 @@
 - [x] Mais uma variável
 - [x] Sobre o Compass
 
-# 2-Mixin 
+### 2-Mixin 
 - [x] Mais uma variável: a cor branca
 - [x] Apresentação do mixin
 - [x] Mais um mixin: o sombreado
@@ -20,7 +23,7 @@
 - [x] Mixin image replacement
 - [x] Mais um mixin?
 
-# 3-Aninhamento
+### 3-Aninhamento
 
 - [x] Mixin de image replacement
 - [x] Aninhamento
@@ -28,7 +31,7 @@
 - [x] Compilando
 - [x] Aninhamento no .itens-plano
 
-# 4-Imports
+### 4-Imports
 
 - [x] Aninhamento no .itens-plano
 - [x] Adicionar plug-ins ao Sublime
@@ -38,7 +41,7 @@
 - [x] Outra forma de separar os arquivos
 - [x] Fixação de sintaxe
 
-# 5-Funções de cores
+### 5-Funções de cores
 
 - [x] Alterações nas cores
 - [x] Voltando à cor original
@@ -46,7 +49,7 @@
 - [x] Sintaxe da lighten
 - [x] Outras funções de cor
 
-# 6-Extend e placeholder
+### 6-Extend e placeholder
 
 - [x] Evitar repetições com placeholder
 - [x] Limitações do placeholder
@@ -54,7 +57,7 @@
 - [x] Mixin X placeholder
 - [x] Compilando
 
-# 7-Media queries direto no seletor
+### 7-Media queries direto no seletor
 
 - [x] Introdução a media queries
 - [x] Inserção de variáveis em media queries
@@ -64,7 +67,7 @@
 - [x] Compilando
 - [x] Restante das regras da media query
 
-# 8-Compass
+### 8-Compass
 
 - [ ] Instalando o Compass
 - [ ] Aplicação do restante das regras de media query
@@ -83,7 +86,7 @@
 - [ ] Configurando
 - [ ] Outro sprite
 
-# 9-Operações matemáticas
+### 9-Operações matemáticas
 
 - [ ] Operações matemáticas no código
 - [ ] Explicação - Operações matemáticas no código
@@ -97,7 +100,7 @@
 - [ ] Dois operadores
 - [ ] Arredondando
 
-# 10-Boas práticas e conselhos
+### 10-Boas práticas e conselhos
 
 - [ ] Boas práticas e conselhos
 - [ ] Explicação - Boas práticas e conselhos
